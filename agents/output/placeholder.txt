@@ -1,0 +1,2 @@
+.dat: serialized population data
+.csv: log file
